@@ -1,11 +1,11 @@
-**Hi there, I'm Kehinde Ogundana 👋**
+**# Hi there, I'm Kenny 👋**
 
-**About Me**
+**# About Me**
 
 I'm a passionate Data Scientist and Machine Learning Engineer dedicated to solving real-world problems through data-driven solutions. I specialize in building intelligent systems that combine Machine Learning, Deep Learning, and Data Engineering to uncover insights, predict outcomes, and drive strategic decision-making.
 With strong experience in crime pattern prediction, predictive modeling, and data visualization, I focus on building scalable, interpretable, and user-friendly solutions. I believe in the power of automation, reproducibility, and innovation to transform data into meaningful impact.
 
-**🛠️ Technical Skills**
+**# 🛠️ Technical Skills**
 
 Programming Languages: Python, SQL
 
@@ -19,7 +19,7 @@ Tools & Libraries: Scikit-learn, PyTorch, XGBoost, Streamlit, Pandas, Numpy, SHA
 
 Version Control: Git, GitHub
 
-**🔭 Core Competencies**
+**# 🔭 Core Competencies**
 
 Building predictive models for classification and regression tasks
 
@@ -37,7 +37,7 @@ Integrating external datasets like Points of Interest (POI) and socioeconomic da
 
 Enhancing model performance through hyperparameter optimization and cross-validation
 
-**🤝 Soft Skills**
+**# 🤝 Soft Skills**
 
 Analytical Problem Solving
 
@@ -51,7 +51,7 @@ Project Management & Collaboration
 
 Creativity in Designing User-Centric Solutions
 
-**📫 Let's Connect!**
+**# 📫 Let's Connect!**
 
 📧 Email: ogundanakehinde2022@gmail.com
 

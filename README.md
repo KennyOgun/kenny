@@ -2,22 +2,33 @@
 
 # About Me
 
-I'm a passionate Data Science & Analytics Professional dedicated to solving real-world problems through data-driven solutions. I specialize in building intelligent systems that combine Machine Learning, Deep Learning, and Data Engineering to uncover insights, predict outcomes, and drive strategic decision-making.
-With strong experience in crime pattern prediction, predictive modeling, and data visualization, I focus on building scalable, interpretable, and user-friendly solutions. I believe in the power of automation, reproducibility, and innovation to transform data into meaningful impact.
+I’m a passionate Data Science and Analytics professional committed to solving real-world problems through data-driven solutions. I specialize in developing intelligent systems that leverage Machine Learning, Deep Learning, Statistical Modeling, and Data Analytics to uncover insights, predict outcomes, and support strategic decision-making.
+
+With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a solid background in building predictive models, automating workflows, and collaborating with cross-functional teams. I excel at extracting actionable insights from complex datasets and delivering scalable, interpretable, and user-friendly solutions. I believe in the power of automation, reproducibility, and innovation to transform data into meaningful impact.
 
 # 🛠️ Technical Skills
 
-Programming Languages: Python, SQL
+**Programming Languages & Databases:** Python | R | SQL | MongoDB | BigQuery | Apache Spark
 
-Machine Learning & AI: Supervised/Unsupervised Learning, XGBoost, Random Forest, KNN, Deep Learning (CNN, LSTM, CNN-LSTM), Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
+**Data Science & Analytics:** Data Science | Predictive Analytics | Statistical Modeling | Data Wrangling | Data-Driven Decision-Making
 
-Data Engineering & MLOps: Data Preprocessing, Feature Engineering, Data Pipeline Development, Model Deployment with Streamlit
+**Machine Learning & Artificial Intelligence:** ML | DL | AI | NLP | Computer Vision (CV) | Transformers (Hugging Face)
 
-Data Analytics & Visualization: EDA, Statistical Analysis, SHAP, LIME, Seaborn, Matplotlib, Plotly, Geospatial Mapping (GeoPandas, Folium)
+**Frameworks, Libraries & Tools:** TensorFlow | PyTorch | Scikit-learn | OpenCV | YOLO | NLTK | SpaCy | Pandas | NumPy
 
-Tools & Libraries: Scikit-learn, PyTorch, XGBoost, Streamlit, Pandas, Numpy, SHAP, LIME
+**Data Visualization & Reporting:** Power BI | Tableau | Looker | Matplotlib | Seaborn | Plotly | MS Excel | ggplot2
 
-Version Control: Git, GitHub
+**Big Data & Cloud Platforms:** AWS | Google Cloud Platform (GCP) | Azure Databricks | Hadoop | Apache Spark
+
+**Model Deployment & MLOps:** MLOps | Docker | Streamlit | FastAPI | Flask | Render
+
+**Analytics & Tracking:** Google Analytics
+
+**Version Control & Collaboration:** Git | GitHub | Agile Methodologies | Team Collaboration | Communication Skills (Written and Verbal)
+
+**Hyperparameter Tuning & Model Optimization:** GridSearchCV | Optuna | RandomizedSearchCV
+
+**Development Environment & API Integration:** Jupyter Notebook | Working with APIs | Data Cleaning & Preprocessing)
 
 # 🔭 Core Competencies
 
@@ -32,8 +43,6 @@ Developing scalable and automated machine learning pipelines
 Real-time data visualization and interactive web application development
 
 Interpreting model predictions using Explainable AI (XAI) techniques
-
-Integrating external datasets like Points of Interest (POI) and socioeconomic data for enriched modeling
 
 Enhancing model performance through hyperparameter optimization and cross-validation
 
@@ -55,7 +64,7 @@ Creativity in Designing User-Centric Solutions
 
 📧 Email: ogundanakehinde2022@gmail.com
 
-💼 LinkedIn: linkedin.com/in/kehindeogundana
+💼 LinkedIn: linkedin.com/in/kennyogundana
 
 🌐 Portfolio: kennyogun.github.io
 

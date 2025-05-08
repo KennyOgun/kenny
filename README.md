@@ -1,4 +1,6 @@
-# Hi there, I'm Kenny 👋
+
+<h1>  Hi there, I'm Kenny 👋
+<br/><a href="https://github.com/KennyOgun/kenny">Data Expert</a>, <a href="https://www.linkedin.com/in/kennyogundana/">Data Scientist & Analyst Professional</a>
 
 # About Me
 
@@ -62,19 +64,25 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
 
 # <h2>👨‍💻 Data Science Projects:</h2>
 
+ 
+
 - <b>Customer Behavioural Segmentation Using Unsupervised Learning </b>
   - [Customer Segmentation Analysis](https://github.com/KennyOgun/customer_behavioural_segmentation_using_unsupervised_learning)
 - <b>Dynamic Price Optimization Using ML and Mlflow</b>
   - [Price Optimization using ML](https://github.com/KennyOgun/dynamic_pricing_optimization_using_ml_and_mlflow) <b>
+- <b>Enhanced Sales Forecasting Using Time Series Modeling</b>
+  - [Sales Forecasting Using Time Series Modelling](https://github.com/KennyOgun/enhanced_sales_forecasting_using_time_series_modeling/blob/main/README.md)
 - <b>Multiclass Customer Sentiment Classification for E-Commerce Platform</b>
   - [Sentiment Analysis Classification](https://github.com/KennyOgun/Multiclass-Customer-Sentiment-Classification-for-E-Commerce-Platform)
-  - 
+- <b>Financial Market Prediction and Investment Strategy Optimization</b>
+  - [Financial Market Prediction](https://github.com/KennyOgun/financial_market_prediction_investment_strategy_optimization)
+  
 
 # 📫 Let's Connect!
 
 📧 Email: ogundanakehinde2022@gmail.com
 
-💼 LinkedIn: linkedin.com/in/kennyogundana
+💼 [linkedin]: https://linkedin.com/in/kennyogundana
 
-🌐 Portfolio: kennyogun.github.io
+
 

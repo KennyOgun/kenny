@@ -20,7 +20,7 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
 
 **Big Data & Cloud Platforms:** AWS | Google Cloud Platform (GCP) | Azure Databricks | Hadoop | Apache Spark
 
-**Model Deployment & MLOps:** MLOps | Docker | Streamlit | FastAPI | Flask | Render
+**Model Deployment & MLOps:** MLOps | Docker | Streamlit | FastAPI | Flask
 
 **Analytics & Tracking:** Google Analytics
 
@@ -32,33 +32,42 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
 
 # 🔭 Core Competencies
 
-Building predictive models for classification and regression tasks
+* Building predictive models for classification and regression tasks
 
-Performing advanced statistical analysis and feature selection
+* Performing advanced statistical analysis and feature selection
 
-Designing and deploying deep learning architectures for sequence and spatial data
+* Designing and deploying deep learning architectures for sequence and spatial data
 
-Developing scalable and automated machine learning pipelines
+* Developing scalable and automated machine learning pipelines
 
-Real-time data visualization and interactive web application development
+* Real-time data visualization and interactive web application development
 
-Interpreting model predictions using Explainable AI (XAI) techniques
+* Interpreting model predictions using Explainable AI (XAI) techniques
 
-Enhancing model performance through hyperparameter optimization and cross-validation
+* Enhancing model performance through hyperparameter optimization and cross-validation
 
 # 🤝 Soft Skills
 
-Analytical Problem Solving
+* Analytical Problem Solving
 
-Attention to Detail
+* Attention to Detail
 
-Adaptability & Continuous Learning
+* Adaptability & Continuous Learning
 
-Strong Communication & Storytelling with Data
+* Strong Communication & Storytelling with Data
 
-Project Management & Collaboration
+* Project Management & Collaboration
 
-Creativity in Designing User-Centric Solutions
+* Creativity in Designing User-Centric Solutions
+
+# <h2>👨‍💻 Data Science Projects:</h2>
+
+- <b>Customer Behavioural Segmentation Using Unsupervised Learning </b>
+  - [Customer Segmentation Analysis](https://github.com/KennyOgun/customer_behavioural_segmentation_using_unsupervised_learning)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 # 📫 Let's Connect!
 

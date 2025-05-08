@@ -64,10 +64,11 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
 
 - <b>Customer Behavioural Segmentation Using Unsupervised Learning </b>
   - [Customer Segmentation Analysis](https://github.com/KennyOgun/customer_behavioural_segmentation_using_unsupervised_learning)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Dynamic Price Optimization Using ML and Mlflow</b>
+  - [Price Optimization using ML](https://github.com/KennyOgun/dynamic_pricing_optimization_using_ml_and_mlflow) <b>
+- <b>Multiclass Customer Sentiment Classification for E-Commerce Platform</b>
+  - [Sentiment Analysis Classification](https://github.com/KennyOgun/Multiclass-Customer-Sentiment-Classification-for-E-Commerce-Platform)
+  - 
 
 # 📫 Let's Connect!
 
